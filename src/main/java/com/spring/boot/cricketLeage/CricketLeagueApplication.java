@@ -10,4 +10,5 @@ public class CricketLeagueApplication {
 		SpringApplication.run(CricketLeagueApplication.class, args);
 	}
 //Git Hub Update check line
+	//updated from gitthub
 }
