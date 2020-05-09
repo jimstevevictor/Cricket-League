@@ -9,5 +9,5 @@ public class CricketLeagueApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CricketLeagueApplication.class, args);
 	}
-
+//Git Hub Update check line
 }
